@@ -106,9 +106,6 @@ printf("2. Substraction\n");
 printf("3. Multiplication\n");
 printf("4. Division\n");
 printf("5. Square of a number\n");
-printf("6. Square root\n");
-printf("7. Cube root\n");
-//printf("8. Factorial\n");
 scanf("%d",&x);
 clrscr();
     switch (x)
